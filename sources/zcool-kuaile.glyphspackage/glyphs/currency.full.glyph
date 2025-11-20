@@ -1,0 +1,15 @@
+{
+glyphname = currency.full;
+layers = (
+{
+components = (
+{
+name = currency;
+transform = "{1, 0, 0, 1, 138, 0}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+width = 920;
+}
+);
+}

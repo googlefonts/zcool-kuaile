@@ -1,0 +1,40 @@
+{
+glyphname = uni513F;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"792 -6 LINE",
+"888 167 LINE",
+"807 212 LINE",
+"730 76 LINE",
+"616 122 LINE",
+"650 729 LINE",
+"555 734 LINE",
+"521 95 LINE",
+"550 49 LINE",
+"733 -28 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"270 102 LINE",
+"288 136 LINE",
+"335 749 LINE",
+"241 756 LINE",
+"196 165 LINE",
+"32 37 LINE",
+"91 -36 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni513F;
+unicode = 513F;
+}

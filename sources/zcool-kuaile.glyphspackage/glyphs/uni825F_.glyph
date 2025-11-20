@@ -1,0 +1,159 @@
+{
+glyphname = uni825F;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"419 12 LINE",
+"436 53 LINE",
+"376 616 LINE",
+"321 657 LINE",
+"254 645 LINE",
+"284 711 LINE",
+"197 751 LINE",
+"140 625 LINE",
+"109 620 LINE",
+"70 571 LINE",
+"86 319 LINE",
+"41 313 LINE",
+"55 220 LINE",
+"93 225 LINE",
+"110 -30 LINE",
+"204 -24 LINE",
+"193 150 LINE",
+"256 76 LINE",
+"327 137 LINE",
+"234 245 LINE",
+"320 257 LINE",
+"340 70 LINE",
+"262 10 LINE",
+"321 -64 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"869 30 LINE",
+"665 30 LINE",
+"665 38 LINE",
+"782 37 LINE",
+"784 132 LINE",
+"671 132 LINE",
+"673 162 LINE",
+"792 160 LINE",
+"841 205 LINE",
+"849 451 LINE",
+"799 498 LINE",
+"471 478 LINE",
+"426 431 LINE",
+"431 212 LINE",
+"477 166 LINE",
+"579 164 LINE",
+"577 132 LINE",
+"481 133 LINE",
+"480 40 LINE",
+"572 39 LINE",
+"571 30 LINE",
+"439 30 LINE",
+"439 -65 LINE",
+"869 -65 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"879 511 LINE",
+"872 605 LINE",
+"747 597 LINE",
+"776 632 LINE",
+"826 633 LINE",
+"825 727 LINE",
+"669 724 LINE",
+"651 783 LINE",
+"561 756 LINE",
+"571 722 LINE",
+"446 720 LINE",
+"449 626 LINE",
+"492 627 LINE",
+"525 584 LINE",
+"407 577 LINE",
+"412 483 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"172 452 LINE",
+"167 535 LINE",
+"289 556 LINE",
+"302 429 LINE",
+"250 506 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"231 368 LINE",
+"303 419 LINE",
+"310 352 LINE",
+"180 333 LINE",
+"172 451 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"678 256 LINE",
+"680 284 LINE",
+"683 285 OFFCURVE",
+"685 285 OFFCURVE",
+"688 285 CURVE SMOOTH",
+"748 288 LINE",
+"747 255 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"522 387 LINE",
+"592 391 LINE",
+"591 373 LINE",
+"522 369 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"752 402 LINE",
+"751 383 LINE",
+"686 379 LINE",
+"687 397 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"524 274 LINE",
+"586 279 LINE",
+"585 258 LINE",
+"525 260 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"610 629 LINE",
+"650 629 LINE",
+"629 605 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni825F;
+unicode = 825F;
+}

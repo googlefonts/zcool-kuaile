@@ -1,0 +1,18 @@
+{
+glyphname = bracketright;
+layers = (
+{
+components = (
+{
+name = bracketleft;
+transform = "{-1, 0, 0, -1, 262, 600}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+width = 262;
+}
+);
+leftMetricsKey = "=|bracketleft";
+rightMetricsKey = "=|bracketleft";
+unicode = 005D;
+}

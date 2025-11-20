@@ -1,0 +1,22 @@
+{
+glyphname = periodcentered;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"400 477 LINE",
+"343 320 LINE",
+"501 265 LINE",
+"558 423 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = periodcentered;
+unicode = 00B7;
+}

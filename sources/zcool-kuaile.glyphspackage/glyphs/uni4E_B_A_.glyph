@@ -1,0 +1,31 @@
+{
+glyphname = uni4EBA;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"804 -1 LINE",
+"869 68 LINE",
+"490 424 LINE",
+"425 356 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"131 -39 LINE",
+"580 709 LINE",
+"500 758 LINE",
+"51 9 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni4EBA;
+unicode = 4EBA;
+}

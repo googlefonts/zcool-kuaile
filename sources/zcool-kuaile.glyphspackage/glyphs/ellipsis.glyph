@@ -1,0 +1,28 @@
+{
+color = 0;
+glyphname = ellipsis;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, 310}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, 320, 310}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, 630, 310}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+width = 853;
+}
+);
+leftMetricsKey = "=period";
+note = ellipsis;
+rightMetricsKey = "=period";
+unicode = 2026;
+}

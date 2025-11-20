@@ -1,0 +1,25 @@
+{
+color = 0;
+glyphname = hyphen;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"618 239 LINE",
+"611 321 LINE",
+"60 279 LINE",
+"66 198 LINE"
+);
+}
+);
+width = 653;
+}
+);
+leftMetricsKey = "=n+10";
+note = hyphen;
+rightMetricsKey = "=n-15";
+unicode = 002D;
+}

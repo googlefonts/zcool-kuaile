@@ -1,0 +1,41 @@
+{
+color = 4;
+glyphname = ellipsis.vert;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"543 717 LINE",
+"423 758 LINE",
+"380 639 LINE",
+"500 597 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"543 132 LINE",
+"423 173 LINE",
+"380 54 LINE",
+"500 12 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"543 425 LINE",
+"423 466 LINE",
+"380 347 LINE",
+"500 305 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uFE19;
+unicode = FE19;
+}

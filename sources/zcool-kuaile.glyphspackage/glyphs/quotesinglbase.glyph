@@ -1,0 +1,43 @@
+{
+color = 0;
+glyphname = quotesinglbase;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"68 -90 LINE",
+"142 -66 OFFCURVE",
+"212 20 OFFCURVE",
+"212 117 OFFCURVE",
+"161 172 OFFCURVE",
+"103 172 OFFCURVE",
+"68 141 OFFCURVE",
+"68 90 OFFCURVE",
+"95 62 OFFCURVE",
+"130 62 OFFCURVE",
+"161 74 OFFCURVE",
+"177 55 OFFCURVE",
+"173 12 OFFCURVE",
+"119 -54 OFFCURVE",
+"68 -70 QCURVE"
+);
+}
+);
+};
+components = (
+{
+name = comma;
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+width = 228;
+}
+);
+leftMetricsKey = "=comma";
+note = quotesinglbase;
+rightMetricsKey = "=comma";
+unicode = 201A;
+}

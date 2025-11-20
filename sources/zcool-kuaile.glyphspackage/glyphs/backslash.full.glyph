@@ -1,0 +1,16 @@
+{
+glyphname = backslash.full;
+layers = (
+{
+components = (
+{
+name = backslash;
+transform = "{1, 0, 0, 1, 312, 0}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+width = 920;
+}
+);
+unicode = FF3C;
+}

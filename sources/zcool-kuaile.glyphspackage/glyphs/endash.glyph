@@ -1,0 +1,33 @@
+{
+color = 0;
+glyphname = endash;
+layers = (
+{
+background = {
+components = (
+{
+name = n;
+transform = "{1, 0, 0, 1, 10, 0}";
+}
+);
+};
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"518 239 LINE",
+"511 321 LINE",
+"60 279 LINE",
+"66 198 LINE"
+);
+}
+);
+width = 553;
+}
+);
+leftMetricsKey = "=hyphen";
+note = endash;
+rightMetricsKey = "=hyphen";
+unicode = 2013;
+}

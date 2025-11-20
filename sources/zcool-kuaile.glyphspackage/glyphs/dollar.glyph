@@ -1,0 +1,63 @@
+{
+color = 0;
+glyphname = dollar;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"491 -1 LINE",
+"525 42 LINE",
+"516 187 LINE",
+"483 224 LINE",
+"351 246 LINE",
+"360 391 LINE",
+"511 378 LINE",
+"518 458 LINE",
+"365 471 LINE",
+"371 563 LINE",
+"290 568 LINE",
+"284 478 LINE",
+"178 488 LINE",
+"139 469 LINE",
+"20 276 LINE",
+"49 216 LINE",
+"266 178 LINE",
+"258 43 LINE",
+"35 6 LINE",
+"48 -74 LINE",
+"253 -40 LINE",
+"249 -106 LINE",
+"329 -111 LINE",
+"334 -26 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"195 406 LINE",
+"280 398 LINE",
+"271 259 LINE",
+"121 284 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"438 149 LINE",
+"441 73 LINE",
+"339 56 LINE",
+"346 165 LINE"
+);
+}
+);
+width = 555;
+}
+);
+leftMetricsKey = "=n-30";
+note = dollar;
+rightMetricsKey = "=n-20";
+unicode = 0024;
+}

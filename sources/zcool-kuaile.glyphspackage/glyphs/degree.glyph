@@ -1,0 +1,45 @@
+{
+color = 0;
+glyphname = degree;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"231 898 LINE",
+"128 913 LINE",
+"96 906 LINE",
+"15 831 LINE",
+"0 793 LINE",
+"6 682 LINE",
+"40 647 LINE",
+"151 601 LINE",
+"174 603 LINE",
+"283 657 LINE",
+"318 779 LINE",
+"255 876 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"74 711 LINE",
+"73 789 LINE",
+"131 841 LINE",
+"200 833 LINE",
+"243 772 LINE",
+"225 707 LINE",
+"154 672 LINE"
+);
+}
+);
+width = 298;
+}
+);
+leftMetricsKey = "=n-50";
+note = degree;
+rightMetricsKey = "=n-70";
+unicode = 00B0;
+}

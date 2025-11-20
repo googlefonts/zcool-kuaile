@@ -1,0 +1,39 @@
+{
+glyphname = uni535E;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"51 469 LINE",
+"401 482 LINE",
+"401 -67 LINE",
+"495 -67 LINE",
+"495 296 LINE",
+"690 176 LINE",
+"738 256 LINE",
+"495 406 LINE",
+"495 485 LINE",
+"873 500 LINE",
+"871 594 LINE",
+"47 563 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"516 590 LINE",
+"578 661 LINE",
+"438 786 LINE",
+"376 715 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni535E;
+unicode = 535E;
+}

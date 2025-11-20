@@ -1,0 +1,43 @@
+{
+glyphname = ring;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"211 898 LINE",
+"108 913 LINE",
+"76 906 LINE",
+"-5 831 LINE",
+"-20 793 LINE",
+"-14 682 LINE",
+"20 647 LINE",
+"131 601 LINE",
+"154 603 LINE",
+"263 657 LINE",
+"298 779 LINE",
+"235 876 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"54 711 LINE",
+"53 789 LINE",
+"111 841 LINE",
+"180 833 LINE",
+"223 772 LINE",
+"205 707 LINE",
+"134 672 LINE"
+);
+}
+);
+width = 258;
+}
+);
+leftMetricsKey = "=caron";
+rightMetricsKey = "=caron";
+unicode = 02DA;
+}

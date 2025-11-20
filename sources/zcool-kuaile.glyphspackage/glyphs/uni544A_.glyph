@@ -1,0 +1,60 @@
+{
+glyphname = uni544A;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"675 -58 LINE",
+"725 -18 LINE",
+"765 238 LINE",
+"716 293 LINE",
+"155 277 LINE",
+"111 217 LINE",
+"168 4 LINE",
+"211 -30 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"140 480 LINE",
+"191 577 LINE",
+"410 589 LINE",
+"393 436 LINE",
+"52 405 LINE",
+"61 312 LINE",
+"868 385 LINE",
+"860 479 LINE",
+"488 445 LINE",
+"506 595 LINE",
+"738 608 LINE",
+"733 702 LINE",
+"518 690 LINE",
+"527 768 LINE",
+"432 778 LINE",
+"421 685 LINE",
+"242 675 LINE",
+"273 733 LINE",
+"190 778 LINE",
+"56 525 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"251 63 LINE",
+"218 183 LINE",
+"662 197 LINE",
+"637 39 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni544A;
+unicode = 544A;
+}

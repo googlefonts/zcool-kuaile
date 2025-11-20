@@ -1,0 +1,35 @@
+{
+glyphname = "period-han";
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"357 175 LINE",
+"310 220 LINE",
+"119 201 LINE",
+"85 150 LINE",
+"113 4 LINE",
+"145 -23 LINE",
+"296 -43 LINE",
+"343 -9 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"174 124 LINE",
+"269 133 LINE",
+"264 49 LINE",
+"183 52 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = u3002;
+unicode = 3002;
+}

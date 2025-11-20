@@ -1,0 +1,28 @@
+{
+glyphname = uni531A;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"842 -16 LINE",
+"847 77 LINE",
+"216 114 LINE",
+"170 614 LINE",
+"843 642 LINE",
+"838 736 LINE",
+"117 705 LINE",
+"72 654 LINE",
+"126 65 LINE",
+"171 22 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni531A;
+unicode = 531A;
+}

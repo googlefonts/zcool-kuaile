@@ -1,0 +1,26 @@
+{
+color = 4;
+glyphname = anglebracketright.vert;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"801 730 LINE",
+"764 802 LINE",
+"466 647 LINE",
+"160 820 LINE",
+"120 750 LINE",
+"445 567 LINE",
+"484 566 LINE"
+);
+}
+);
+width = 921;
+}
+);
+note = uFE40;
+unicode = FE40;
+}

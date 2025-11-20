@@ -1,0 +1,48 @@
+{
+color = 0;
+glyphname = twodotenleader;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"311 270 OFFCURVE",
+"388 296 OFFCURVE",
+"385 359 CURVE SMOOTH",
+"384 390 OFFCURVE",
+"371 412 OFFCURVE",
+"346 424 CURVE SMOOTH",
+"297 447 OFFCURVE",
+"242 416 OFFCURVE",
+"243 361 CURVE SMOOTH",
+"243 334 OFFCURVE",
+"252 312 OFFCURVE",
+"270 297 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"686 270 OFFCURVE",
+"763 296 OFFCURVE",
+"760 359 CURVE SMOOTH",
+"759 390 OFFCURVE",
+"746 412 OFFCURVE",
+"721 424 CURVE SMOOTH",
+"672 447 OFFCURVE",
+"617 416 OFFCURVE",
+"618 361 CURVE SMOOTH",
+"618 334 OFFCURVE",
+"627 312 OFFCURVE",
+"645 297 CURVE"
+);
+}
+);
+width = 1000;
+}
+);
+note = twodotenleader;
+unicode = 2025;
+}

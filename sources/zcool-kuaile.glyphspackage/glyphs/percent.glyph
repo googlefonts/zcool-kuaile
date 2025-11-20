@@ -1,0 +1,69 @@
+{
+color = 0;
+glyphname = percent;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"428 128 LINE",
+"499 151 LINE",
+"515 46 LINE",
+"418 56 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"603 7 LINE",
+"572 209 LINE",
+"520 242 LINE",
+"379 197 LINE",
+"352 164 LINE",
+"332 27 LINE",
+"367 -19 LINE",
+"559 -41 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"219 451 LINE",
+"219 394 LINE",
+"157 358 LINE",
+"122 447 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"279 336 LINE",
+"300 371 LINE",
+"300 493 LINE",
+"258 533 LINE",
+"62 524 LINE",
+"25 469 LINE",
+"98 286 LINE",
+"155 264 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"590 581 LINE",
+"525 628 LINE",
+"53 -37 LINE",
+"119 -84 LINE"
+);
+}
+);
+width = 628;
+}
+);
+leftMetricsKey = "=H-40";
+note = percent;
+rightMetricsKey = "=H-40";
+unicode = 0025;
+}

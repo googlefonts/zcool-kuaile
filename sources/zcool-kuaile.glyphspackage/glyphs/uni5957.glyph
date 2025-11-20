@@ -1,0 +1,76 @@
+{
+glyphname = uni5957;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"825 391 LINE",
+"895 454 LINE",
+"747 617 LINE",
+"853 625 LINE",
+"845 719 LINE",
+"364 682 LINE",
+"405 735 LINE",
+"330 793 LINE",
+"236 672 LINE",
+"29 656 LINE",
+"36 563 LINE",
+"159 572 LINE",
+"25 398 LINE",
+"100 340 LINE",
+"196 464 LINE",
+"196 192 LINE",
+"50 185 LINE",
+"55 90 LINE",
+"190 97 LINE",
+"148 -7 LINE",
+"196 -72 LINE",
+"748 -13 LINE",
+"774 -57 LINE",
+"855 -10 LINE",
+"774 128 LINE",
+"884 134 LINE",
+"879 228 LINE",
+"290 197 LINE",
+"290 220 LINE",
+"708 235 LINE",
+"705 329 LINE",
+"290 314 LINE",
+"290 333 LINE",
+"639 355 LINE",
+"634 449 LINE",
+"290 428 LINE",
+"290 445 LINE",
+"710 485 LINE",
+"706 521 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"293 102 LINE",
+"737 126 LINE",
+"685 95 LINE",
+"697 75 LINE",
+"264 30 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"287 582 LINE",
+"628 608 LINE",
+"658 575 LINE",
+"251 536 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni5957;
+unicode = 5957;
+}

@@ -1,0 +1,36 @@
+{
+color = 4;
+glyphname = "period-han.vert";
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"846 531 LINE",
+"860 715 LINE",
+"813 760 LINE",
+"622 741 LINE",
+"588 690 LINE",
+"616 544 LINE",
+"648 517 LINE",
+"799 497 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"686 592 LINE",
+"677 664 LINE",
+"772 673 LINE",
+"767 589 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uFE12;
+unicode = FE12;
+}

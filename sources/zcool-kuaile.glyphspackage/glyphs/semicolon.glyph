@@ -1,0 +1,49 @@
+{
+color = 0;
+glyphname = semicolon;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"211 103 LINE",
+"191 159 LINE",
+"83 203 LINE",
+"53 128 LINE",
+"119 102 LINE",
+"33 -58 LINE",
+"104 -96 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"190 331 LINE",
+"69 396 LINE",
+"30 324 LINE",
+"151 259 LINE"
+);
+}
+);
+};
+components = (
+{
+name = comma;
+transform = "{1, 0, 0, 1, 10, -10}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, 10, 310}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+width = 232;
+}
+);
+leftMetricsKey = "=period";
+note = semicolon;
+rightMetricsKey = "=period-16";
+unicode = 003B;
+}

@@ -1,0 +1,160 @@
+{
+glyphname = uni9B4D;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"899 -15 LINE",
+"891 79 LINE",
+"361 38 LINE",
+"351 100 LINE",
+"398 63 LINE",
+"520 106 LINE",
+"489 195 LINE",
+"440 178 LINE",
+"450 243 LINE",
+"358 256 LINE",
+"342 161 LINE",
+"326 272 LINE",
+"440 281 LINE",
+"483 326 LINE",
+"493 660 LINE",
+"441 709 LINE",
+"294 695 LINE",
+"319 730 LINE",
+"241 785 LINE",
+"169 684 LINE",
+"136 681 LINE",
+"94 633 LINE",
+"99 503 LINE",
+"70 503 LINE",
+"73 408 LINE",
+"103 408 LINE",
+"108 303 LINE",
+"156 259 LINE",
+"15 -27 LINE",
+"100 -67 LINE",
+"239 214 LINE",
+"275 -20 LINE",
+"325 -59 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"898 185 LINE",
+"905 211 LINE",
+"885 710 LINE",
+"833 750 LINE",
+"531 678 LINE",
+"499 634 LINE",
+"530 116 LINE",
+"615 121 LINE",
+"609 211 LINE",
+"648 180 LINE",
+"815 223 LINE",
+"798 288 LINE",
+"676 256 LINE",
+"683 350 LINE",
+"814 365 LINE",
+"820 223 LINE",
+"763 143 LINE",
+"831 94 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"374 414 LINE",
+"373 509 LINE",
+"333 508 LINE",
+"333 511 OFFCURVE",
+"333 515 OFFCURVE",
+"334 518 CURVE",
+"341 594 LINE SMOOTH",
+"341 598 OFFCURVE",
+"341 602 OFFCURVE",
+"342 605 CURVE",
+"398 610 LINE",
+"390 371 LINE",
+"323 365 LINE",
+"326 413 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"790 485 LINE",
+"784 553 LINE",
+"770 551 LINE",
+"804 619 LINE",
+"812 410 LINE",
+"810 433 LINE",
+"744 425 LINE",
+"724 479 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"238 506 LINE",
+"193 505 LINE",
+"190 591 LINE",
+"246 596 LINE",
+"238 507 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"678 625 LINE",
+"738 639 LINE",
+"690 543 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"593 467 LINE",
+"627 470 LINE",
+"648 414 LINE",
+"597 408 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"585 604 LINE",
+"613 610 LINE",
+"624 537 LINE",
+"589 533 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"199 355 LINE",
+"197 410 LINE",
+"231 411 LINE",
+"227 357 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"603 341 LINE",
+"616 342 LINE",
+"607 243 LINE",
+"599 370 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni9B4D;
+unicode = 9B4D;
+}

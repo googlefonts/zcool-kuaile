@@ -1,0 +1,19 @@
+{
+color = 4;
+glyphname = parenright.full.vert;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = parenright;
+transform = "{0, -1, 1, 0, 155, 825}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+width = 920;
+}
+);
+note = uFE36;
+unicode = FE36;
+}

@@ -1,0 +1,38 @@
+{
+color = 0;
+glyphname = R;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"188 606 LINE",
+"595 620 LINE",
+"624 384 LINE",
+"279 420 LINE",
+"269 326 LINE",
+"481 304 LINE",
+"650 4 LINE",
+"731 50 LINE",
+"594 292 LINE",
+"673 284 LINE",
+"725 336 LINE",
+"683 674 LINE",
+"635 715 LINE",
+"141 700 LINE",
+"96 655 LINE",
+"65 15 LINE",
+"159 10 LINE"
+);
+}
+);
+width = 761;
+}
+);
+leftMetricsKey = "=H";
+note = R;
+rightMetricsKey = "=P-10";
+unicode = 0052;
+}

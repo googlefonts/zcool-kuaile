@@ -1,0 +1,24 @@
+{
+color = 0;
+glyphname = colon;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, -10}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, 310}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+width = 223;
+}
+);
+leftMetricsKey = "=period";
+note = colon;
+rightMetricsKey = "=period";
+unicode = 003A;
+}

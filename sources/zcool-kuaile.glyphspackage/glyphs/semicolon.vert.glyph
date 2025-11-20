@@ -1,0 +1,19 @@
+{
+color = 4;
+glyphname = semicolon.vert;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = semicolon;
+transform = "{1, 0, 0, 1, 621, 341}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+width = 920;
+}
+);
+note = uFE14;
+unicode = FE14;
+}

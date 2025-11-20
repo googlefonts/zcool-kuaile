@@ -1,0 +1,64 @@
+{
+glyphname = uni56ED;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"834 -20 LINE",
+"880 735 LINE",
+"831 785 LINE",
+"86 765 LINE",
+"40 715 LINE",
+"76 -12 LINE",
+"123 -57 LINE",
+"786 -65 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"136 671 LINE",
+"783 688 LINE",
+"743 30 LINE",
+"168 37 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"704 376 LINE",
+"696 470 LINE",
+"201 435 LINE",
+"209 340 LINE",
+"301 346 LINE",
+"211 113 LINE",
+"300 80 LINE",
+"405 354 LINE",
+"479 359 LINE",
+"499 160 LINE",
+"559 118 LINE",
+"736 168 LINE",
+"710 258 LINE",
+"588 225 LINE",
+"573 366 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"649 512 LINE",
+"645 607 LINE",
+"250 591 LINE",
+"254 497 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni56ED;
+unicode = 56ED;
+}

@@ -1,0 +1,23 @@
+{
+color = 4;
+glyphname = emdash.vert;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"502 -106 LINE",
+"499 815 LINE",
+"418 812 LINE",
+"420 -107 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uFE31;
+unicode = FE31;
+}

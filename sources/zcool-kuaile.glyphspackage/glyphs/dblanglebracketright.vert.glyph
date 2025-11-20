@@ -1,0 +1,38 @@
+{
+color = 4;
+glyphname = dblanglebracketright.vert;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"811 530 LINE",
+"777 604 LINE",
+"462 460 LINE",
+"149 634 LINE",
+"110 563 LINE",
+"441 380 LINE",
+"477 379 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"791 727 LINE",
+"754 799 LINE",
+"456 644 LINE",
+"150 817 LINE",
+"110 747 LINE",
+"435 564 LINE",
+"474 563 LINE"
+);
+}
+);
+width = 921;
+}
+);
+note = uFE3E;
+unicode = FE3E;
+}

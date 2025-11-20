@@ -1,0 +1,18 @@
+{
+glyphname = underscore;
+layers = (
+{
+components = (
+{
+name = endash;
+transform = "{0.99756, -0.06976, 0.06976, 0.99756, -39, -320}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+width = 489;
+}
+);
+leftMetricsKey = "=hyphen-20";
+rightMetricsKey = "=hyphen-40";
+unicode = 005F;
+}

@@ -1,0 +1,30 @@
+{
+glyphname = parenleft;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"344 -43 LINE",
+"215 69 LINE",
+"140 302 LINE",
+"204 531 LINE",
+"344 649 LINE",
+"291 713 LINE",
+"125 571 LINE",
+"60 329 LINE",
+"66 266 LINE",
+"136 29 LINE",
+"291 -103 LINE"
+);
+}
+);
+width = 349;
+}
+);
+leftMetricsKey = "=O";
+rightMetricsKey = "=H-60";
+unicode = 0028;
+}

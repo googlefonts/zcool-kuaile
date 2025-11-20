@@ -1,0 +1,61 @@
+{
+glyphname = uni574F;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"857 743 LINE",
+"386 778 LINE",
+"379 685 LINE",
+"574 670 LINE",
+"316 66 LINE",
+"402 28 LINE",
+"540 354 LINE",
+"574 -60 LINE",
+"667 -53 LINE",
+"629 446 LINE",
+"578 441 LINE",
+"672 663 LINE",
+"850 650 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"340 483 LINE",
+"331 577 LINE",
+"231 566 LINE",
+"231 718 LINE",
+"136 718 LINE",
+"136 556 LINE",
+"45 547 LINE",
+"54 453 LINE",
+"136 461 LINE",
+"136 198 LINE",
+"21 146 LINE",
+"60 61 LINE",
+"346 191 LINE",
+"307 277 LINE",
+"231 242 LINE",
+"231 471 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"899 230 LINE",
+"741 463 LINE",
+"662 411 LINE",
+"821 177 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni574F;
+unicode = 574F;
+}

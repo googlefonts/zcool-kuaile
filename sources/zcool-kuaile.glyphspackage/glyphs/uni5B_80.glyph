@@ -1,0 +1,38 @@
+{
+glyphname = uni5B80;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"840 172 LINE",
+"867 350 LINE",
+"817 403 LINE",
+"150 343 LINE",
+"145 378 LINE",
+"52 363 LINE",
+"85 155 LINE",
+"178 170 LINE",
+"165 249 LINE",
+"765 305 LINE",
+"747 187 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"420 397 LINE",
+"493 456 LINE",
+"407 563 LINE",
+"335 505 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni5B80;
+unicode = 5B80;
+}

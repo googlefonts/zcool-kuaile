@@ -1,0 +1,44 @@
+{
+color = 0;
+glyphname = caron;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"154 545 LINE",
+"228 550 LINE",
+"365 750 LINE",
+"280 788 LINE",
+"183 632 LINE",
+"31 798 LINE",
+"-50 749 LINE"
+);
+}
+);
+};
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"134 565 LINE",
+"208 570 LINE",
+"335 750 LINE",
+"260 778 LINE",
+"163 632 LINE",
+"41 798 LINE",
+"-20 749 LINE"
+);
+}
+);
+width = 295;
+}
+);
+leftMetricsKey = "=n-70";
+note = caron;
+rightMetricsKey = "=n-90";
+unicode = 02C7;
+}

@@ -1,0 +1,43 @@
+{
+color = 0;
+glyphname = overlinedashed;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"588 852 LINE",
+"588 801 LINE",
+"795 801 LINE",
+"795 852 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"10 852 LINE",
+"10 801 LINE",
+"217 801 LINE",
+"217 852 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"291 852 LINE",
+"291 801 LINE",
+"498 801 LINE",
+"498 852 LINE"
+);
+}
+);
+width = 785;
+}
+);
+leftMetricsKey = "=overlinecenterline";
+note = uniFE49;
+rightMetricsKey = "=overlinecenterline";
+unicode = FE49;
+}

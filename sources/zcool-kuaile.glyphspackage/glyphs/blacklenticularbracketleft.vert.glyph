@@ -1,0 +1,28 @@
+{
+color = 4;
+glyphname = blacklenticularbracketleft.vert;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"883 258 LINE",
+"36 258 LINE",
+"36 -102 LINE",
+"184 33.333 OFFCURVE",
+"322.667 101 OFFCURVE",
+"452 101 CURVE SMOOTH",
+"590.667 101 OFFCURVE",
+"734.333 32.333 OFFCURVE",
+"883 -105 CURVE"
+);
+}
+);
+width = 920;
+}
+);
+note = uFE3B;
+unicode = FE3B;
+}

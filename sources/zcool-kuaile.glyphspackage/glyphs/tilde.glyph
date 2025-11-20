@@ -1,0 +1,66 @@
+{
+color = 0;
+glyphname = tilde;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"-5 652 OFFCURVE",
+"-1 660 QCURVE",
+"10 680 OFFCURVE",
+"30 680 QCURVE SMOOTH",
+"42 680 OFFCURVE",
+"66 668 OFFCURVE",
+"93 648 QCURVE",
+"151 613 OFFCURVE",
+"190 613 QCURVE SMOOTH",
+"214 613 OFFCURVE",
+"257 645 OFFCURVE",
+"284 691 OFFCURVE",
+"284 734 QCURVE",
+"269 734 LINE",
+"261 695 OFFCURVE",
+"238 668 OFFCURVE",
+"222 668 QCURVE SMOOTH",
+"202 668 OFFCURVE",
+"121 719 OFFCURVE",
+"101 727 QCURVE SMOOTH",
+"82 734 OFFCURVE",
+"62 734 QCURVE SMOOTH",
+"26 734 OFFCURVE",
+"-28 679 OFFCURVE",
+"-28 613 QCURVE",
+"-13 613 LINE"
+);
+}
+);
+};
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"308 599 LINE",
+"416 669 LINE",
+"378 741 LINE",
+"283 678 LINE",
+"126 759 LINE",
+"89 751 LINE",
+"-20 663 LINE",
+"33 603 LINE",
+"126 677 LINE",
+"278 596 LINE"
+);
+}
+);
+width = 376;
+}
+);
+leftMetricsKey = "=caron";
+note = tilde;
+rightMetricsKey = "=caron";
+unicode = 02DC;
+}

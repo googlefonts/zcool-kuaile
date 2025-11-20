@@ -1,0 +1,63 @@
+{
+glyphname = cent;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"516 187 LINE",
+"483 224 LINE",
+"121 284 LINE",
+"195 406 LINE",
+"511 378 LINE",
+"518 458 LINE",
+"178 488 LINE",
+"139 469 LINE",
+"20 276 LINE",
+"49 216 LINE",
+"438 149 LINE",
+"441 73 LINE",
+"35 6 LINE",
+"48 -74 LINE",
+"491 -1 LINE",
+"525 42 LINE"
+);
+}
+);
+};
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"434 60 LINE",
+"423 154 LINE",
+"149 114 LINE",
+"185 325 LINE",
+"396 281 LINE",
+"411 374 LINE",
+"150 426 LINE",
+"96 385 LINE",
+"50 65 LINE",
+"101 14 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"209 -106 LINE",
+"289 -111 LINE",
+"331 533 LINE",
+"250 538 LINE"
+);
+}
+);
+width = 464;
+}
+);
+leftMetricsKey = "=c";
+rightMetricsKey = "=c";
+unicode = 00A2;
+}

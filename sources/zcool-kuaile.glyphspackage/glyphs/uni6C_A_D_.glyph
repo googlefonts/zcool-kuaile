@@ -1,0 +1,69 @@
+{
+glyphname = uni6CAD;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"325 456 LINE",
+"404 462 LINE",
+"277 11 LINE",
+"367 -15 LINE",
+"506 471 LINE",
+"526 472 LINE",
+"530 -60 LINE",
+"623 -60 LINE",
+"621 480 LINE",
+"882 502 LINE",
+"875 596 LINE",
+"742 585 LINE",
+"813 638 LINE",
+"721 762 LINE",
+"646 706 LINE",
+"736 585 LINE",
+"620 575 LINE",
+"620 778 LINE",
+"525 777 LINE",
+"526 568 LINE",
+"316 551 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"126 -53 LINE",
+"281 398 LINE",
+"251 458 LINE",
+"66 517 LINE",
+"37 427 LINE",
+"176 383 LINE",
+"37 -23 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"761 1 LINE",
+"850 32 LINE",
+"728 382 LINE",
+"638 351 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"232 567 LINE",
+"273 652 LINE",
+"97 737 LINE",
+"57 653 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni6CAD;
+unicode = 6CAD;
+}

@@ -1,0 +1,23 @@
+{
+color = 4;
+glyphname = "comma-han.vert";
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"876 593 LINE",
+"706 772 LINE",
+"633 704 LINE",
+"802 523 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uFE11;
+unicode = FE11;
+}

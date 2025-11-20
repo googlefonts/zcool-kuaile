@@ -1,0 +1,65 @@
+{
+glyphname = uni4F46;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"375 160 LINE",
+"815 180 LINE",
+"861 226 LINE",
+"870 655 LINE",
+"816 703 LINE",
+"356 643 LINE",
+"315 594 LINE",
+"318 469 LINE",
+"287 471 LINE",
+"282 376 LINE",
+"320 374 LINE",
+"325 206 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"91 469 LINE",
+"136 512 LINE",
+"149 -57 LINE",
+"244 -56 LINE",
+"230 599 LINE",
+"346 708 LINE",
+"281 776 LINE",
+"26 538 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"411 554 LINE",
+"774 601 LINE",
+"766 273 LINE",
+"419 256 LINE",
+"416 370 LINE",
+"722 358 LINE",
+"726 453 LINE",
+"413 465 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"284 -57 LINE",
+"894 -21 LINE",
+"887 74 LINE",
+"277 38 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni4F46;
+unicode = 4F46;
+}

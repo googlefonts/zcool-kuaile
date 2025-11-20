@@ -1,0 +1,62 @@
+{
+color = 0;
+glyphname = dieresis;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"319 708 OFFCURVE",
+"264 684 OFFCURVE",
+"264 621 OFFCURVE",
+"315 598 OFFCURVE",
+"362 621 OFFCURVE",
+"369 672 OFFCURVE",
+"342 688 QCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"101 621 OFFCURVE",
+"108 676 OFFCURVE",
+"61 707 OFFCURVE",
+"6 684 OFFCURVE",
+"6 617 OFFCURVE",
+"61 597 OFFCURVE",
+"81 609 QCURVE SMOOTH"
+);
+}
+);
+};
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"129 685 LINE",
+"20 723 LINE",
+"-20 615 LINE",
+"89 576 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"387 685 LINE",
+"278 723 LINE",
+"238 615 LINE",
+"347 576 LINE"
+);
+}
+);
+width = 347;
+}
+);
+leftMetricsKey = "=caron";
+note = dieresis;
+rightMetricsKey = "=caron";
+unicode = 00A8;
+}

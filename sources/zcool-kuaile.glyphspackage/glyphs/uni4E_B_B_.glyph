@@ -1,0 +1,31 @@
+{
+glyphname = uni4EBB;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"542 -56 LINE",
+"572 517 LINE",
+"478 522 LINE",
+"447 -53 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"237 364 LINE",
+"737 697 LINE",
+"684 776 LINE",
+"184 442 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni4EBB;
+unicode = 4EBB;
+}

@@ -1,0 +1,56 @@
+{
+glyphname = uni540A;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"757 -17 LINE",
+"810 30 LINE",
+"809 290 LINE",
+"761 338 LINE",
+"498 338 LINE",
+"496 437 LINE",
+"747 430 LINE",
+"796 473 LINE",
+"819 688 LINE",
+"772 740 LINE",
+"160 761 LINE",
+"111 710 LINE",
+"134 490 LINE",
+"179 446 LINE",
+"401 440 LINE",
+"403 338 LINE",
+"149 339 LINE",
+"101 286 LINE",
+"129 -7 LINE",
+"222 1 LINE",
+"201 244 LINE",
+"406 243 LINE",
+"414 -42 LINE",
+"509 -40 LINE",
+"501 243 LINE",
+"714 243 LINE",
+"715 83 LINE",
+"606 95 LINE",
+"596 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"224 540 LINE",
+"211 665 LINE",
+"719 646 LINE",
+"706 526 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni540A;
+unicode = 540A;
+}

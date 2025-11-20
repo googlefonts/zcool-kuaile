@@ -1,0 +1,22 @@
+{
+glyphname = "comma-han";
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"147 221 LINE",
+"74 153 LINE",
+"243 -28 LINE",
+"317 42 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = u3001;
+unicode = 3001;
+}
