@@ -1,0 +1,34 @@
+{
+glyphname = uni6C35;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"417 -50 LINE",
+"602 347 LINE",
+"583 408 LINE",
+"330 558 LINE",
+"282 477 LINE",
+"500 348 LINE",
+"332 -10 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"587 537 LINE",
+"637 617 LINE",
+"390 768 LINE",
+"341 688 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni6C35;
+unicode = 6C35;
+}

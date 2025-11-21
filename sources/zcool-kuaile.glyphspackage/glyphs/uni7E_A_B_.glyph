@@ -1,0 +1,63 @@
+{
+glyphname = uni7EAB;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"858 14 LINE",
+"888 57 LINE",
+"888 692 LINE",
+"843 740 LINE",
+"403 754 LINE",
+"401 660 LINE",
+"537 655 LINE",
+"505 496 LINE",
+"338 405 LINE",
+"385 322 LINE",
+"481 375 LINE",
+"397 -43 LINE",
+"490 -61 LINE",
+"633 651 LINE",
+"795 646 LINE",
+"795 90 LINE",
+"666 44 LINE",
+"698 -45 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"358 215 LINE",
+"342 307 LINE",
+"203 282 LINE",
+"345 457 LINE",
+"305 534 LINE",
+"163 524 LINE",
+"298 729 LINE",
+"220 781 LINE",
+"32 495 LINE",
+"75 422 LINE",
+"203 431 LINE",
+"50 242 LINE",
+"96 166 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"367 54 LINE",
+"333 141 LINE",
+"70 42 LINE",
+"103 -46 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni7EAB;
+unicode = 7EAB;
+}

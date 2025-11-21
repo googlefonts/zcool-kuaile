@@ -1,0 +1,26 @@
+{
+color = 3;
+glyphname = quoteright;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"289 706 LINE",
+"274 756 LINE",
+"197 803 LINE",
+"155 734 LINE",
+"201 706 LINE",
+"140 567 LINE",
+"214 534 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = quoteright;
+unicode = 2019;
+}

@@ -1,0 +1,104 @@
+{
+glyphname = uni5AE3;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"781 -83 LINE",
+"887 -33 LINE",
+"914 10 LINE",
+"914 267 LINE",
+"861 314 LINE",
+"521 270 LINE",
+"521 298 LINE",
+"847 334 LINE",
+"837 427 LINE",
+"520 392 LINE",
+"520 431 LINE",
+"425 430 LINE",
+"427 216 LINE",
+"480 170 LINE",
+"820 214 LINE",
+"820 39 LINE",
+"748 4 LINE",
+"800 67 LINE",
+"699 150 LINE",
+"639 149 LINE",
+"520 45 LINE",
+"581 -26 LINE",
+"670 51 LINE",
+"740 -6 LINE",
+"742 -2 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"15 482 LINE",
+"95 490 LINE",
+"51 215 LINE",
+"71 167 LINE",
+"134 126 LINE",
+"55 -48 LINE",
+"140 -86 LINE",
+"213 74 LINE",
+"300 19 LINE",
+"351 97 LINE",
+"253 161 LINE",
+"369 414 LINE",
+"282 452 LINE",
+"174 213 LINE",
+"149 230 LINE",
+"192 499 LINE",
+"357 515 LINE",
+"349 609 LINE",
+"208 596 LINE",
+"232 742 LINE",
+"139 757 LINE",
+"111 587 LINE",
+"6 577 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"419 677 LINE",
+"586 690 LINE",
+"592 552 LINE",
+"502 545 LINE",
+"505 614 LINE",
+"410 616 LINE",
+"406 495 LINE",
+"457 446 LINE",
+"877 481 LINE",
+"869 575 LINE",
+"685 560 LINE",
+"685 579 LINE",
+"836 597 LINE",
+"825 691 LINE",
+"682 673 LINE",
+"681 697 LINE",
+"850 711 LINE",
+"844 805 LINE",
+"411 771 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"415 -58 LINE",
+"519 99 LINE",
+"441 151 LINE",
+"336 -6 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni5AE3;
+unicode = 5AE3;
+}

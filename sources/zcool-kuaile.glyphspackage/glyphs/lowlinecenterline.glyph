@@ -1,0 +1,48 @@
+{
+color = 0;
+glyphname = lowlinecenterline;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"499 -45 OFFCURVE",
+"464 16 OFFCURVE",
+"421 -6 CURVE SMOOTH",
+"394 -19 OFFCURVE",
+"394 -52 OFFCURVE",
+"421 -64 CURVE SMOOTH",
+"434 -71 OFFCURVE",
+"445 -70 OFFCURVE",
+"456 -62 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"835 -16 LINE",
+"835 -70 LINE",
+"550 -70 LINE",
+"550 -16 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"335 -16 LINE",
+"335 -70 LINE",
+"50 -70 LINE",
+"50 -16 LINE"
+);
+}
+);
+width = 885;
+}
+);
+leftMetricsKey = "=n";
+note = uniFE4E;
+rightMetricsKey = "=n";
+unicode = FE4E;
+}

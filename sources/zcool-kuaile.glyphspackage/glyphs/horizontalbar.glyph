@@ -1,0 +1,25 @@
+{
+color = 0;
+glyphname = horizontalbar;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"60 240 LINE",
+"681 198 LINE",
+"688 280 LINE",
+"66 321 LINE"
+);
+}
+);
+width = 723;
+}
+);
+leftMetricsKey = "=hyphen";
+note = uni2015;
+rightMetricsKey = "=hyphen";
+unicode = 2015;
+}

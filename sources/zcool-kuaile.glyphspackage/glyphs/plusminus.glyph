@@ -1,0 +1,54 @@
+{
+color = 0;
+glyphname = plusminus;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"176 27 LINE",
+"176 -20 LINE",
+"860 -20 LINE",
+"860 27 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"489 734 LINE",
+"489 426 LINE",
+"176 426 LINE",
+"176 379 LINE",
+"489 379 LINE",
+"489 109 LINE",
+"536 109 LINE",
+"536 379 LINE",
+"860 379 LINE",
+"860 426 LINE",
+"536 426 LINE",
+"536 734 LINE"
+);
+}
+);
+};
+components = (
+{
+name = plus;
+transform = "{1, 0, 0, 1, 20, 100}";
+},
+{
+name = minus;
+transform = "{-1, 0, 0, 1, 620, -180}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+width = 640;
+}
+);
+leftMetricsKey = "=plus";
+note = plusminus;
+rightMetricsKey = "=plus";
+unicode = 00B1;
+}

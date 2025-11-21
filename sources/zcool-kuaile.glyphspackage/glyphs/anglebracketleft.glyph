@@ -1,0 +1,25 @@
+{
+color = 3;
+glyphname = anglebracketleft;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"860 56 LINE",
+"688 362 LINE",
+"843 660 LINE",
+"770 697 LINE",
+"607 380 LINE",
+"607 341 LINE",
+"790 16 LINE"
+);
+}
+);
+width = 920;
+}
+);
+unicode = 3008;
+}

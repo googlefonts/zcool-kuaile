@@ -1,0 +1,53 @@
+{
+color = 0;
+glyphname = equal;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"611 93 LINE",
+"610 173 LINE",
+"30 163 LINE",
+"33 82 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"564 364 LINE",
+"74 364 LINE",
+"74 283 LINE",
+"564 283 LINE"
+);
+}
+);
+};
+components = (
+{
+name = minus;
+transform = "{1, 0, 0, 1, 10, -120}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"570 297 LINE",
+"565 377 LINE",
+"50 364 LINE",
+"55 283 LINE"
+);
+}
+);
+width = 630;
+}
+);
+leftMetricsKey = "=minus+10";
+note = equal;
+rightMetricsKey = "=minus";
+unicode = 003D;
+}

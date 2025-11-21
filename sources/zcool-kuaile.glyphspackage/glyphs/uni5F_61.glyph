@@ -1,0 +1,40 @@
+{
+glyphname = uni5F61;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"267 -22 LINE",
+"702 151 LINE",
+"666 238 LINE",
+"231 64 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"252 249 LINE",
+"697 409 LINE",
+"666 498 LINE",
+"221 338 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"246 515 LINE",
+"682 654 LINE",
+"655 743 LINE",
+"217 605 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni5F61;
+unicode = 5F61;
+}

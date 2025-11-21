@@ -1,0 +1,31 @@
+{
+color = 0;
+glyphname = exclam;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, -10}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"235 745 LINE",
+"128 761 LINE",
+"62 247 LINE",
+"168 234 LINE"
+);
+}
+);
+width = 225;
+}
+);
+leftMetricsKey = "=period";
+note = exclam;
+rightMetricsKey = "=period-40";
+unicode = 0021;
+}

@@ -1,0 +1,65 @@
+{
+glyphname = uni5CAD;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"371 56 LINE",
+"408 107 LINE",
+"379 462 LINE",
+"286 453 LINE",
+"311 141 LINE",
+"252 129 LINE",
+"263 673 LINE",
+"169 676 LINE",
+"157 111 LINE",
+"133 106 LINE",
+"117 432 LINE",
+"23 427 LINE",
+"42 46 LINE",
+"98 2 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"792 16 LINE",
+"698 54 LINE",
+"862 306 LINE",
+"826 378 LINE",
+"720 384 LINE",
+"633 568 LINE",
+"548 528 LINE",
+"613 391 LINE",
+"452 401 LINE",
+"447 306 LINE",
+"739 290 LINE",
+"608 91 LINE",
+"488 140 LINE",
+"452 52 LINE",
+"756 -70 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"712 713 LINE",
+"656 788 LINE",
+"344 556 LINE",
+"401 481 LINE",
+"608 635 LINE",
+"849 491 LINE",
+"897 572 LINE",
+"690 697 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni5CAD;
+unicode = 5CAD;
+}

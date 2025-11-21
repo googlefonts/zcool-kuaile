@@ -1,0 +1,38 @@
+{
+color = 3;
+glyphname = dblanglebracketright;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"393 342 LINE",
+"394 381 LINE",
+"230 698 LINE",
+"158 661 LINE",
+"313 363 LINE",
+"140 57 LINE",
+"210 17 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"577 348 LINE",
+"578 384 LINE",
+"427 718 LINE",
+"353 684 LINE",
+"497 369 LINE",
+"323 56 LINE",
+"394 17 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni300B;
+unicode = 300B;
+}

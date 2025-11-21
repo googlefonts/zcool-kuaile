@@ -1,0 +1,44 @@
+{
+glyphname = uni516D;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"71 481 LINE",
+"858 562 LINE",
+"848 656 LINE",
+"515 622 LINE",
+"435 755 LINE",
+"353 705 LINE",
+"410 611 LINE",
+"62 575 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"168 -35 LINE",
+"373 385 LINE",
+"288 426 LINE",
+"83 6 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"773 -32 LINE",
+"857 12 LINE",
+"665 387 LINE",
+"581 345 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni516D;
+unicode = 516D;
+}

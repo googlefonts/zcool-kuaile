@@ -1,0 +1,20 @@
+{
+color = 0;
+glyphname = bullet;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1.55133, 0, 0, 1.55133, -17, 325}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+width = 297;
+}
+);
+leftMetricsKey = "=period";
+note = bullet;
+rightMetricsKey = "=period-15";
+unicode = 2022;
+}

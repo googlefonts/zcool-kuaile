@@ -1,0 +1,55 @@
+{
+glyphname = "zero-han";
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"599 -47 LINE",
+"751 46 LINE",
+"852 192 LINE",
+"885 367 LINE",
+"843 541 LINE",
+"735 682 LINE",
+"579 768 LINE",
+"401 782 LINE",
+"233 723 LINE",
+"103 600 LINE",
+"35 436 LINE",
+"39 258 LINE",
+"116 97 LINE",
+"251 -19 LINE",
+"422 -70 LINE",
+"423 -70 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"184 149 LINE",
+"123 278 LINE",
+"120 420 LINE",
+"174 551 LINE",
+"278 649 LINE",
+"412 696 LINE",
+"554 685 LINE",
+"679 617 LINE",
+"765 504 LINE",
+"798 365 LINE",
+"772 225 LINE",
+"691 108 LINE",
+"570 34 LINE",
+"429 16 LINE",
+"292 48 LINE",
+"294 55 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = u3007;
+unicode = 3007;
+}

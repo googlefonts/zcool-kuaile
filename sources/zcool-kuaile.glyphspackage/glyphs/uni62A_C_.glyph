@@ -1,0 +1,80 @@
+{
+glyphname = uni62AC;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"851 -26 LINE",
+"887 316 LINE",
+"833 368 LINE",
+"466 323 LINE",
+"459 358 LINE",
+"367 344 LINE",
+"419 -5 LINE",
+"462 -44 LINE",
+"801 -67 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"337 523 LINE",
+"324 615 LINE",
+"235 603 LINE",
+"227 760 LINE",
+"132 755 LINE",
+"141 590 LINE",
+"33 576 LINE",
+"47 483 LINE",
+"147 497 LINE",
+"158 289 LINE",
+"44 224 LINE",
+"92 143 LINE",
+"164 185 LINE",
+"172 49 LINE",
+"76 75 LINE",
+"51 -16 LINE",
+"209 -59 LINE",
+"269 -12 LINE",
+"255 237 LINE",
+"343 288 LINE",
+"297 369 LINE",
+"249 342 LINE",
+"240 510 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"881 438 LINE",
+"818 659 LINE",
+"728 634 LINE",
+"743 577 LINE",
+"498 534 LINE",
+"644 729 LINE",
+"569 786 LINE",
+"351 495 LINE",
+"397 421 LINE",
+"769 486 LINE",
+"789 413 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"479 229 LINE",
+"787 266 LINE",
+"762 29 LINE",
+"507 46 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni62AC;
+unicode = 62AC;
+}

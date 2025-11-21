@@ -1,0 +1,35 @@
+{
+glyphname = uni56D7;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"241 141 LINE",
+"221 552 LINE",
+"698 582 LINE",
+"669 135 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"713 40 LINE",
+"760 85 LINE",
+"795 630 LINE",
+"745 680 LINE",
+"169 642 LINE",
+"125 593 LINE",
+"149 92 LINE",
+"195 47 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni56D7;
+unicode = 56D7;
+}

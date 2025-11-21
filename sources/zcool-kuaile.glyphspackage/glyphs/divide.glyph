@@ -1,0 +1,72 @@
+{
+color = 0;
+glyphname = divide;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"665 379 LINE",
+"665 332 LINE",
+"-49 332 LINE",
+"-49 379 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"369 67 OFFCURVE",
+"372 148 OFFCURVE",
+"306 191 OFFCURVE",
+"232 156 OFFCURVE",
+"228 74 OFFCURVE",
+"291 27 OFFCURVE",
+"330 47 QCURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"369 559 OFFCURVE",
+"372 641 OFFCURVE",
+"306 684 OFFCURVE",
+"232 648 OFFCURVE",
+"228 566 OFFCURVE",
+"291 519 OFFCURVE",
+"330 539 QCURVE SMOOTH"
+);
+}
+);
+};
+components = (
+{
+name = period;
+transform = "{0.86384, 0, 0, 0.86384, 205, 6}";
+},
+{
+name = period;
+transform = "{0.86384, 0, 0, 0.86384, 205, 406}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"590 227 LINE",
+"585 307 LINE",
+"30 274 LINE",
+"35 193 LINE"
+);
+}
+);
+width = 620;
+}
+);
+leftMetricsKey = "=minus";
+note = divide;
+rightMetricsKey = "=minus";
+unicode = 00F7;
+}

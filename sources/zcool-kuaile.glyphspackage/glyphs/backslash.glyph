@@ -1,0 +1,18 @@
+{
+glyphname = backslash;
+layers = (
+{
+components = (
+{
+name = slash;
+transform = "{-1, 0, 0, 1, 316, 0}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+width = 316;
+}
+);
+leftMetricsKey = "=|slash";
+rightMetricsKey = "=|slash";
+unicode = 005C;
+}

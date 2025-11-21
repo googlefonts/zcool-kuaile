@@ -1,0 +1,43 @@
+{
+color = 0;
+glyphname = lowlinedashed;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"628 -16 LINE",
+"628 -70 LINE",
+"835 -70 LINE",
+"835 -16 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"50 -16 LINE",
+"50 -70 LINE",
+"257 -70 LINE",
+"257 -16 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"331 -16 LINE",
+"331 -70 LINE",
+"538 -70 LINE",
+"538 -16 LINE"
+);
+}
+);
+width = 885;
+}
+);
+leftMetricsKey = "=lowlinecenterline";
+note = uniFE4D;
+rightMetricsKey = "=lowlinecenterline";
+unicode = FE4D;
+}

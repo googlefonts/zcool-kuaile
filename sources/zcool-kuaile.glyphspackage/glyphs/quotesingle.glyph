@@ -1,0 +1,25 @@
+{
+color = 0;
+glyphname = quotesingle;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"111 622 LINE",
+"111 838 LINE",
+"30 839 LINE",
+"30 623 LINE"
+);
+}
+);
+width = 121;
+}
+);
+leftMetricsKey = "=quotedbl";
+note = quotesingle;
+rightMetricsKey = "=quotedbl";
+unicode = 0027;
+}

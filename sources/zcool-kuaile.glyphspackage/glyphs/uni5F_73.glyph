@@ -1,0 +1,35 @@
+{
+glyphname = uni5F73;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"220 292 LINE",
+"428 377 LINE",
+"439 -71 LINE",
+"534 -69 LINE",
+"522 416 LINE",
+"737 504 LINE",
+"702 590 LINE",
+"184 379 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"253 535 LINE",
+"690 702 LINE",
+"657 790 LINE",
+"219 622 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni5F73;
+unicode = 5F73;
+}

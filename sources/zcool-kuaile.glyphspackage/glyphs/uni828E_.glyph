@@ -1,0 +1,62 @@
+{
+glyphname = uni828E;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"790 -61 LINE",
+"812 112 LINE",
+"762 165 LINE",
+"232 129 LINE",
+"243 225 LINE",
+"738 229 LINE",
+"785 279 LINE",
+"775 460 LINE",
+"725 505 LINE",
+"148 481 LINE",
+"152 386 LINE",
+"682 409 LINE",
+"688 322 LINE",
+"201 319 LINE",
+"155 277 LINE",
+"131 82 LINE",
+"181 30 LINE",
+"712 67 LINE",
+"696 -49 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"110 591 LINE",
+"262 595 LINE",
+"271 536 LINE",
+"363 550 LINE",
+"356 597 LINE",
+"570 603 LINE",
+"567 564 LINE",
+"661 555 LINE",
+"665 606 LINE",
+"811 610 LINE",
+"808 704 LINE",
+"674 700 LINE",
+"681 771 LINE",
+"587 780 LINE",
+"579 698 LINE",
+"343 691 LINE",
+"333 766 LINE",
+"240 754 LINE",
+"249 689 LINE",
+"107 685 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni828E;
+unicode = 828E;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = minus;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"590 227 LINE",
+"585 307 LINE",
+"30 274 LINE",
+"35 193 LINE"
+);
+}
+);
+width = 620;
+}
+);
+leftMetricsKey = "=plus";
+rightMetricsKey = "=plus";
+unicode = 2212;
+}

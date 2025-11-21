@@ -1,0 +1,81 @@
+{
+glyphname = uni632F;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"398 -41 LINE",
+"424 318 LINE",
+"476 319 LINE",
+"502 -14 LINE",
+"578 -46 LINE",
+"731 74 LINE",
+"794 -31 LINE",
+"875 17 LINE",
+"806 133 LINE",
+"874 186 LINE",
+"817 260 LINE",
+"758 213 LINE",
+"707 299 LINE",
+"625 250 LINE",
+"682 154 LINE",
+"589 81 LINE",
+"570 322 LINE",
+"834 330 LINE",
+"832 425 LINE",
+"431 412 LINE",
+"449 661 LINE",
+"849 672 LINE",
+"845 766 LINE",
+"404 754 LINE",
+"358 710 LINE",
+"304 -34 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"52 536 LINE",
+"136 542 LINE",
+"147 346 LINE",
+"44 287 LINE",
+"90 206 LINE",
+"153 242 LINE",
+"160 124 LINE",
+"49 22 LINE",
+"112 -46 LINE",
+"240 69 LINE",
+"257 106 LINE",
+"246 294 LINE",
+"320 336 LINE",
+"274 419 LINE",
+"240 399 LINE",
+"231 549 LINE",
+"305 554 LINE",
+"298 649 LINE",
+"226 643 LINE",
+"220 752 LINE",
+"125 747 LINE",
+"131 636 LINE",
+"45 630 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"499 501 LINE",
+"787 516 LINE",
+"780 611 LINE",
+"494 595 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni632F;
+unicode = 632F;
+}

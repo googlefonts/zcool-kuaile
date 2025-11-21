@@ -1,0 +1,60 @@
+{
+glyphname = uni5C42;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"857 225 LINE",
+"848 318 LINE",
+"203 257 LINE",
+"244 512 LINE",
+"749 446 LINE",
+"803 497 LINE",
+"783 721 LINE",
+"735 765 LINE",
+"229 765 LINE",
+"183 725 LINE",
+"64 -23 LINE",
+"157 -38 LINE",
+"188 161 LINE",
+"307 173 LINE",
+"274 11 LINE",
+"330 -45 LINE",
+"703 30 LINE",
+"733 -43 LINE",
+"820 -7 LINE",
+"738 198 LINE",
+"650 163 LINE",
+"667 120 LINE",
+"380 61 LINE",
+"405 182 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"723 413 LINE",
+"287 413 LINE",
+"287 320 LINE",
+"723 318 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"269 670 LINE",
+"693 670 LINE",
+"703 547 LINE",
+"259 605 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni5C42;
+unicode = 5C42;
+}

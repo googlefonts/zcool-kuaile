@@ -1,0 +1,23 @@
+{
+glyphname = grave;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"264 658 LINE",
+"17 759 LINE",
+"-20 697 LINE",
+"229 596 LINE"
+);
+}
+);
+width = 224;
+}
+);
+leftMetricsKey = "=caron";
+rightMetricsKey = "=caron";
+unicode = 0060;
+}

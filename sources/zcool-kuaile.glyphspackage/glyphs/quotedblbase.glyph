@@ -1,0 +1,67 @@
+{
+color = 0;
+glyphname = quotedblbase;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"68 -78 LINE",
+"130 -62 OFFCURVE",
+"197 23 OFFCURVE",
+"197 117 OFFCURVE",
+"142 172 OFFCURVE",
+"83 172 OFFCURVE",
+"44 137 OFFCURVE",
+"44 94 OFFCURVE",
+"75 62 OFFCURVE",
+"107 62 OFFCURVE",
+"126 70 OFFCURVE",
+"150 59 OFFCURVE",
+"150 16 OFFCURVE",
+"119 -32 OFFCURVE",
+"68 -59 QCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"302 -78 LINE",
+"365 -59 OFFCURVE",
+"427 27 OFFCURVE",
+"427 117 OFFCURVE",
+"376 172 OFFCURVE",
+"318 172 OFFCURVE",
+"279 141 OFFCURVE",
+"279 94 OFFCURVE",
+"310 62 OFFCURVE",
+"337 62 OFFCURVE",
+"361 70 OFFCURVE",
+"384 59 OFFCURVE",
+"384 12 OFFCURVE",
+"345 -36 OFFCURVE",
+"302 -59 QCURVE"
+);
+}
+);
+};
+components = (
+{
+name = comma;
+},
+{
+name = comma;
+transform = "{1, 0, 0, 1, 210, 0}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+width = 438;
+}
+);
+leftMetricsKey = "=quotesinglbase";
+note = quotedblbase;
+rightMetricsKey = "=quotesinglbase";
+unicode = 201E;
+}

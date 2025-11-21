@@ -1,0 +1,79 @@
+{
+glyphname = uni6CFD;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"849 625 LINE",
+"831 710 LINE",
+"399 780 LINE",
+"384 687 LINE",
+"695 637 LINE",
+"559 548 LINE",
+"380 610 LINE",
+"349 520 LINE",
+"457 482 LINE",
+"321 394 LINE",
+"372 315 LINE",
+"570 444 LINE",
+"827 356 LINE",
+"859 445 LINE",
+"671 509 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"885 47 LINE",
+"874 141 LINE",
+"642 112 LINE",
+"638 201 LINE",
+"786 211 LINE",
+"780 306 LINE",
+"635 296 LINE",
+"632 374 LINE",
+"539 370 LINE",
+"542 289 LINE",
+"390 279 LINE",
+"396 185 LINE",
+"545 195 LINE",
+"548 101 LINE",
+"297 70 LINE",
+"309 -24 LINE",
+"551 6 LINE",
+"554 -61 LINE",
+"649 -58 LINE",
+"646 17 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"292 347 LINE",
+"270 404 LINE",
+"80 505 LINE",
+"36 421 LINE",
+"191 340 LINE",
+"67 -29 LINE",
+"157 -59 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"301 609 LINE",
+"105 749 LINE",
+"50 672 LINE",
+"246 532 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni6CFD;
+unicode = 6CFD;
+}

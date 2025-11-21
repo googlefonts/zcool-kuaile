@@ -1,0 +1,45 @@
+{
+color = 3;
+glyphname = whitelenticularbracketleft;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"860 -66 LINE",
+"719 53 OFFCURVE",
+"652 172 OFFCURVE",
+"626 279 CURVE SMOOTH",
+"613 332 OFFCURVE",
+"613 385 OFFCURVE",
+"626 438 CURVE SMOOTH",
+"652 542 OFFCURVE",
+"741 677 OFFCURVE",
+"856 781 CURVE",
+"442 781 LINE",
+"442 -66 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"481 -27 LINE",
+"481 742 LINE",
+"762 742 LINE",
+"626 586 OFFCURVE",
+"563 437 OFFCURVE",
+"581 313 CURVE SMOOTH",
+"599 188 OFFCURVE",
+"679 52 OFFCURVE",
+"758 -27 CURVE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni3016;
+unicode = 3016;
+}

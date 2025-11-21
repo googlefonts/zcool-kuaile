@@ -1,0 +1,38 @@
+{
+color = 3;
+glyphname = quotedblleft;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"695 601 LINE",
+"648 629 LINE",
+"711 769 LINE",
+"637 802 LINE",
+"561 631 LINE",
+"576 579 LINE",
+"652 532 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"845 613 LINE",
+"801 641 LINE",
+"860 751 LINE",
+"788 788 LINE",
+"712 646 LINE",
+"726 592 LINE",
+"802 544 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = quotedblleft;
+unicode = 201C;
+}

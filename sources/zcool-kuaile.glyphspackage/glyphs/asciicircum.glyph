@@ -1,0 +1,26 @@
+{
+glyphname = asciicircum;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"101 455 LINE",
+"263 681 LINE",
+"370 465 LINE",
+"445 493 LINE",
+"308 793 LINE",
+"234 798 LINE",
+"30 494 LINE"
+);
+}
+);
+width = 455;
+}
+);
+leftMetricsKey = "=n-20";
+rightMetricsKey = "=n-40";
+unicode = 005E;
+}

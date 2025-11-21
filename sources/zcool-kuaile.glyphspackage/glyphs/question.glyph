@@ -1,0 +1,40 @@
+{
+color = 0;
+glyphname = question;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 127, -10}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"297 202 LINE",
+"281 365 LINE",
+"480 503 LINE",
+"487 576 LINE",
+"311 757 LINE",
+"253 767 LINE",
+"-30 615 LINE",
+"16 530 LINE",
+"267 665 LINE",
+"378 551 LINE",
+"202 428 LINE",
+"180 381 LINE",
+"202 187 LINE"
+);
+}
+);
+width = 457;
+}
+);
+leftMetricsKey = "=period-60";
+note = question;
+rightMetricsKey = "=period-60";
+unicode = 003F;
+}

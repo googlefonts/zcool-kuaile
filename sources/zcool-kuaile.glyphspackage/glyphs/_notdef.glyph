@@ -1,0 +1,52 @@
+{
+glyphname = .notdef;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"510 530 LINE",
+"110 530 LINE",
+"110 130 LINE",
+"510 130 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"280 330 LINE",
+"150 200 LINE",
+"150 460 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"310 300 LINE",
+"440 170 LINE",
+"180 170 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"180 490 LINE",
+"440 490 LINE",
+"310 360 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"340 330 LINE",
+"470 460 LINE",
+"470 200 LINE"
+);
+}
+);
+width = 600;
+}
+);
+}

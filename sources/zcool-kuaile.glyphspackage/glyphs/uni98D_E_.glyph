@@ -1,0 +1,40 @@
+{
+glyphname = uni98DE;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"823 254 LINE",
+"685 376 LINE",
+"847 482 LINE",
+"795 561 LINE",
+"583 421 LINE",
+"577 346 LINE",
+"760 184 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"829 55 LINE",
+"374 137 LINE",
+"690 684 LINE",
+"645 755 LINE",
+"74 709 LINE",
+"82 614 LINE",
+"563 654 LINE",
+"259 126 LINE",
+"292 56 LINE",
+"813 -36 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni98DE;
+unicode = 98DE;
+}

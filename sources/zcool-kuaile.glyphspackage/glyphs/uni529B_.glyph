@@ -1,0 +1,36 @@
+{
+glyphname = uni529B;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"169 -58 LINE",
+"398 521 LINE",
+"746 509 LINE",
+"706 85 LINE",
+"566 180 LINE",
+"513 102 LINE",
+"719 -36 LINE",
+"793 -2 LINE",
+"845 549 LINE",
+"800 602 LINE",
+"434 613 LINE",
+"486 744 LINE",
+"399 778 LINE",
+"335 616 LINE",
+"78 625 LINE",
+"75 532 LINE",
+"298 524 LINE",
+"81 -23 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni529B;
+unicode = 529B;
+}

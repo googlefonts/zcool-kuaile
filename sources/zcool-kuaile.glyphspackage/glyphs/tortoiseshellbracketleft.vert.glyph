@@ -1,0 +1,27 @@
+{
+color = 4;
+glyphname = tortoiseshellbracketleft.vert;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"871 -76 LINE",
+"710 77 LINE",
+"203 77 LINE",
+"50 -68 LINE",
+"70 -99 LINE",
+"210 38 LINE",
+"703 38 LINE",
+"847 -103 LINE"
+);
+}
+);
+width = 921;
+}
+);
+note = uFE39;
+unicode = FE39;
+}

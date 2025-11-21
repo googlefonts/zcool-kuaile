@@ -1,0 +1,32 @@
+{
+color = 0;
+glyphname = F;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"188 610 LINE",
+"645 596 LINE",
+"648 690 LINE",
+"145 706 LINE",
+"98 663 LINE",
+"50 20 LINE",
+"144 13 LINE",
+"164 295 LINE",
+"606 303 LINE",
+"605 396 LINE",
+"171 389 LINE"
+);
+}
+);
+width = 663;
+}
+);
+leftMetricsKey = "=E";
+note = F;
+rightMetricsKey = "=E-30";
+unicode = 0046;
+}

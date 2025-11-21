@@ -1,0 +1,28 @@
+{
+color = 0;
+glyphname = seven;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"511 611 LINE",
+"478 669 LINE",
+"-7 710 LINE",
+"-15 620 LINE",
+"404 582 LINE",
+"151 42 LINE",
+"234 9 LINE"
+);
+}
+);
+width = 506;
+}
+);
+leftMetricsKey = "=two-20";
+note = seven;
+rightMetricsKey = "=two-30";
+unicode = 0037;
+}

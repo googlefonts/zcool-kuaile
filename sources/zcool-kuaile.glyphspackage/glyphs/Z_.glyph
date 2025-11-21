@@ -1,0 +1,31 @@
+{
+color = 0;
+glyphname = Z;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"718 66 LINE",
+"709 160 LINE",
+"189 115 LINE",
+"638 587 LINE",
+"608 666 LINE",
+"74 711 LINE",
+"65 616 LINE",
+"501 581 LINE",
+"35 90 LINE",
+"74 10 LINE"
+);
+}
+);
+width = 753;
+}
+);
+leftMetricsKey = "=H-30";
+note = Z;
+rightMetricsKey = "=H-30";
+unicode = 005A;
+}

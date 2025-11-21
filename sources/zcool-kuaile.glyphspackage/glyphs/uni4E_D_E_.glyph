@@ -1,0 +1,55 @@
+{
+glyphname = uni4EDE;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"477 -42 LINE",
+"651 617 LINE",
+"801 605 LINE",
+"773 85 LINE",
+"644 115 LINE",
+"623 24 LINE",
+"807 -20 LINE",
+"864 24 LINE",
+"897 646 LINE",
+"853 695 LINE",
+"383 734 LINE",
+"376 640 LINE",
+"554 625 LINE",
+"386 -19 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"92 439 LINE",
+"164 516 LINE",
+"178 -31 LINE",
+"272 -29 LINE",
+"257 596 LINE",
+"237 595 LINE",
+"332 698 LINE",
+"263 761 LINE",
+"23 504 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"426 241 LINE",
+"486 515 LINE",
+"393 536 LINE",
+"333 261 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni4EDE;
+unicode = 4EDE;
+}

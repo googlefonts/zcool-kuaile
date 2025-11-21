@@ -1,0 +1,31 @@
+{
+glyphname = uni51AB;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"379 48 LINE",
+"612 305 LINE",
+"542 369 LINE",
+"309 111 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"472 483 LINE",
+"559 519 LINE",
+"497 671 LINE",
+"409 636 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni51AB;
+unicode = 51AB;
+}

@@ -1,0 +1,19 @@
+{
+color = 4;
+glyphname = braceleft.full.vert;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = braceleft;
+transform = "{0, -1, 1, 0, 160, 262}";
+}
+);
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+width = 920;
+}
+);
+note = uFE37;
+unicode = FE37;
+}

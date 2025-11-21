@@ -1,0 +1,51 @@
+{
+color = 0;
+glyphname = overlinecenterline;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"452 789 OFFCURVE",
+"451 833 OFFCURVE",
+"425 846 CURVE SMOOTH",
+"412 852 OFFCURVE",
+"397 852 OFFCURVE",
+"382 846 CURVE SMOOTH",
+"350 833 OFFCURVE",
+"350 789 OFFCURVE",
+"380 775 CURVE SMOOTH",
+"394 768 OFFCURVE",
+"408 768 OFFCURVE",
+"421 773 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"796 848 LINE",
+"796 793 LINE",
+"510 793 LINE",
+"510 848 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"296 848 LINE",
+"296 793 LINE",
+"10 793 LINE",
+"10 848 LINE"
+);
+}
+);
+width = 786;
+}
+);
+leftMetricsKey = "=lowlinecenterline-40";
+note = uniFE4A;
+rightMetricsKey = "=lowlinecenterline-60";
+unicode = FE4A;
+}

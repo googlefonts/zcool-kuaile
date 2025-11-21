@@ -1,0 +1,36 @@
+{
+glyphname = uni5FC4;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"427 -61 LINE",
+"521 -60 LINE",
+"512 484 LINE",
+"652 325 LINE",
+"723 386 LINE",
+"533 604 LINE",
+"511 585 LINE",
+"508 780 LINE",
+"415 779 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"281 266 LINE",
+"401 500 LINE",
+"317 544 LINE",
+"197 310 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni5FC4;
+unicode = 5FC4;
+}

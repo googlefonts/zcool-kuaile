@@ -1,0 +1,40 @@
+{
+glyphname = uni4E09;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"66 24 LINE",
+"860 69 LINE",
+"855 162 LINE",
+"61 117 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"200 324 LINE",
+"706 355 LINE",
+"700 450 LINE",
+"195 417 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"767 567 LINE",
+"772 661 LINE",
+"145 696 LINE",
+"140 602 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni4E09;
+unicode = 4E09;
+}

@@ -1,0 +1,66 @@
+{
+glyphname = uni5C91;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"162 477 LINE",
+"728 554 LINE",
+"740 478 LINE",
+"832 492 LINE",
+"790 762 LINE",
+"697 747 LINE",
+"713 647 LINE",
+"525 621 LINE",
+"512 798 LINE",
+"419 792 LINE",
+"431 609 LINE",
+"207 578 LINE",
+"216 723 LINE",
+"122 729 LINE",
+"110 525 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"127 160 LINE",
+"487 394 LINE",
+"802 235 LINE",
+"845 319 LINE",
+"505 490 LINE",
+"459 488 LINE",
+"76 239 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"481 -78 LINE",
+"767 82 LINE",
+"747 169 LINE",
+"241 210 LINE",
+"234 117 LINE",
+"586 88 LINE",
+"435 2 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"520 194 LINE",
+"597 248 LINE",
+"509 373 LINE",
+"432 318 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni5C91;
+unicode = 5C91;
+}

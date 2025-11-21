@@ -1,0 +1,50 @@
+{
+glyphname = uni5DE8;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"825 -3 LINE",
+"820 92 LINE",
+"194 64 LINE",
+"199 176 LINE",
+"216 177 LINE SMOOTH",
+"286 182 OFFCURVE",
+"372 190 OFFCURVE",
+"475 197 CURVE SMOOTH",
+"682 212 LINE",
+"726 258 LINE",
+"730 475 LINE",
+"686 523 LINE",
+"219 562 LINE",
+"224 657 LINE",
+"817 630 LINE",
+"821 724 LINE",
+"181 753 LINE",
+"132 709 LINE",
+"96 17 LINE",
+"145 -33 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"635 433 LINE",
+"632 303 LINE",
+"430 287 OFFCURVE",
+"295 279 OFFCURVE",
+"230 272 CURVE SMOOTH",
+"204 270 LINE",
+"214 469 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni5DE8;
+unicode = 5DE8;
+}

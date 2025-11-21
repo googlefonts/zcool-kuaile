@@ -1,0 +1,31 @@
+{
+glyphname = uni535C;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"703 303 LINE",
+"438 530 LINE",
+"377 458 LINE",
+"642 232 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"367 768 LINE",
+"273 775 LINE",
+"217 -49 LINE",
+"311 -55 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni535C;
+unicode = 535C;
+}

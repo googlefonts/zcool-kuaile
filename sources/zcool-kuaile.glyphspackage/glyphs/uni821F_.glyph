@@ -1,0 +1,70 @@
+{
+glyphname = uni821F;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"45 237 LINE",
+"160 242 LINE",
+"135 -40 LINE",
+"229 -49 LINE",
+"255 247 LINE",
+"648 265 LINE",
+"665 67 LINE",
+"544 15 LINE",
+"581 -70 LINE",
+"734 -5 LINE",
+"761 42 LINE",
+"742 270 LINE",
+"879 276 LINE",
+"875 371 LINE",
+"734 364 LINE",
+"711 651 LINE",
+"661 695 LINE",
+"430 680 LINE",
+"462 752 LINE",
+"375 790 LINE",
+"325 673 LINE",
+"237 668 LINE",
+"194 626 LINE",
+"168 338 LINE",
+"41 332 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"284 577 LINE",
+"621 597 LINE",
+"640 360 LINE",
+"263 342 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"490 3 LINE",
+"555 72 LINE",
+"389 227 LINE",
+"324 158 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"449 371 LINE",
+"527 423 LINE",
+"434 563 LINE",
+"356 512 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni821F;
+unicode = 821F;
+}

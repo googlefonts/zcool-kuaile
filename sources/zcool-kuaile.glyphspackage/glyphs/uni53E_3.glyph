@@ -1,0 +1,35 @@
+{
+glyphname = uni53E3;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"226 149 LINE",
+"213 567 LINE",
+"704 571 LINE",
+"686 149 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"731 54 LINE",
+"778 99 LINE",
+"802 617 LINE",
+"753 666 LINE",
+"164 661 LINE",
+"118 612 LINE",
+"133 100 LINE",
+"181 54 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni53E3;
+unicode = 53E3;
+}

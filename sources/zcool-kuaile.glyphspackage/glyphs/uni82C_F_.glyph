@@ -1,0 +1,79 @@
+{
+glyphname = uni82CF;
+layers = (
+{
+layerId = "A8B8C001-3175-4DE2-BFCE-CA439A51AAC8";
+paths = (
+{
+closed = 1;
+nodes = (
+"682 3 LINE",
+"716 50 LINE",
+"699 375 LINE",
+"654 420 LINE",
+"490 423 LINE",
+"514 483 LINE",
+"425 518 LINE",
+"388 425 LINE",
+"127 431 LINE",
+"125 338 LINE",
+"352 332 LINE",
+"205 -42 LINE",
+"292 -77 LINE",
+"453 330 LINE",
+"607 326 LINE",
+"620 81 LINE",
+"489 41 LINE",
+"516 -49 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"354 520 LINE",
+"336 587 LINE",
+"558 579 LINE",
+"520 486 LINE",
+"607 450 LINE",
+"658 575 LINE",
+"847 569 LINE",
+"851 663 LINE",
+"697 668 LINE",
+"736 763 LINE",
+"649 798 LINE",
+"597 672 LINE",
+"311 682 LINE",
+"286 778 LINE",
+"195 754 LINE",
+"212 685 LINE",
+"82 690 LINE",
+"80 596 LINE",
+"237 590 LINE",
+"262 495 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"225 205 LINE",
+"142 250 LINE",
+"31 45 LINE",
+"114 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"889 145 LINE",
+"815 335 LINE",
+"727 301 LINE",
+"800 111 LINE"
+);
+}
+);
+width = 920;
+}
+);
+note = uni82CF;
+unicode = 82CF;
+}
