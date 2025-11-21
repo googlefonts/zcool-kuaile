@@ -17,7 +17,7 @@ jobs:
         sudo apt-get update
         sudo apt-get install ttfautohint
         sudo snap install yq
-        sudo snap install pycairo
+        sudo apt-get install pycairo
     - uses: actions/cache@v4
       with:
         path: ./venv/
