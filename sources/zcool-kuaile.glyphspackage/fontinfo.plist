@@ -20,6 +20,13 @@ name = "Use Line Breaks";
 value = 1;
 },
 {
+name = codePageRanges;
+value = (
+"1252",
+"936"
+);
+},
+{
 name = localizedFamilyName;
 value = "Chinese (Simplified);站酷快乐体";
 },
