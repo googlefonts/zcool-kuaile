@@ -2,6 +2,9 @@ name: Build font and specimen
 
 on: push
 
+permissions:
+  contents: write
+
 jobs:
   build:
     name: Build and test
