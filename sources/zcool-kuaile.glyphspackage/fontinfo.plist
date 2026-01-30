@@ -1,6 +1,6 @@
 {
 .appVersion = "3436";
-copyright = "Copyright 2018 The ZCOOL KuaiLe Project Authors (https://www.github.com/googlefonts/zcool-kuaile)";
+copyright = "Copyright 2018 The ZCOOL KuaiLe Project Authors (https://github.com/googlefonts/zcool-kuaile)";
 customParameters = (
 {
 name = fsType;
@@ -36,7 +36,7 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 },
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://openfontlicense.org/";
 },
 {
 name = trademark;
